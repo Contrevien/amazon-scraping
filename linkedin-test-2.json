@@ -1,0 +1,259 @@
+{
+	"timestamp": 1542435843,
+	"resultsNumber": [{
+		"timestamp": 1542435843,
+		"resultsCount": 5
+	}],
+	"keyword": "awgw",
+	"limitResults": 1,
+	"name": "Alessio Bacin",
+	"headline": "Owner at Newbiz s.r.l",
+	"location": "Turin Area, Italy",
+	"experience": [{
+		"company": "Newbiz s.r.l.",
+		"linkToCompany": "https://www.linkedin.com/company/10312381/",
+		"totalDuration": "8 yrs 7 mos",
+		"roles": [{
+			"title": "Owner",
+			"dates": "May 2010 \u2013 Present",
+			"duration": "8 yrs 7 mos",
+			"location": "Turin Area, Italy"
+		}, {
+			"title": "General Manager",
+			"dates": "May 2010 \u2013 Present",
+			"duration": "8 yrs 7 mos",
+			"location": "Turin Area, Italy"
+		}]
+	}, {
+		"company": "Synes srl",
+		"linkToCompany": "https://www.linkedin.com/search/results/index/?keywords=Synes%20srl",
+		"title": "Owner",
+		"dates": "Jan 2004 \u2013 May 2010",
+		"duration": "6 yrs 5 mos"
+	}],
+	"education": [{
+		"institution": "ITIS Internazionale",
+		"linkToInstitution": "https://www.linkedin.com/search/results/index/?keywords=ITIS%20Internazionale",
+		"degree": "Diploma",
+		"fieldOfStudy": "Metalmeccanica",
+		"duration": "1987 \u2013 1992"
+	}, {
+		"institution": "Itis Internazionale",
+		"linkToInstitution": "https://www.linkedin.com/search/results/index/?keywords=Itis%20Internazionale",
+		"degree": "Diploma di Perito Metalmeccanico Capo Tecnico",
+		"fieldOfStudy": "Metalmeccanica",
+		"duration": "1987 \u2013 1992"
+	}],
+	"skills": [{
+		"skill": "Microsoft Office",
+		"endorsements": 5
+	}, {
+		"skill": "Change Management",
+		"endorsements": 5
+	}, {
+		"skill": "Management Consulting",
+		"endorsements": 4
+	}, {
+		"skill": "Project Management",
+		"endorsements": 4
+	}, {
+		"skill": "Business Strategy",
+		"endorsements": 4
+	}, {
+		"skill": "ASP.NET MVC",
+		"endorsements": 0
+	}, {
+		"skill": "jQuery",
+		"endorsements": 0
+	}, {
+		"skill": "VMware vSphere",
+		"endorsements": 0
+	}, {
+		"skill": "HTML5",
+		"endorsements": 0
+	}, {
+		"skill": "Microsoft System Center Virtual Machine Manager",
+		"endorsements": 0
+	}],
+	"recommendationsReceived": [{
+		"name": "Amit Mishra",
+		"linkToProfile": "https://www.linkedin.com/in/amitmanimishra/",
+		"headline": "COO at NEW STEP TECHNOLOGY",
+		"date": "December 1, 2015",
+		"relation": " Alessio worked with Amit in the same group",
+		"content": "Alessio is an enthusiastic and passionate personnel, the professional in the IT security and the related areas having continuous effort to be the best in his professional doings.  Thanks, Amit Mishra NEW STEP TECHNOLOGY"
+	}],
+	"recommendationsGiven": [{
+		"name": "Amit Mishra",
+		"linkToProfile": "https://www.linkedin.com/in/amitmanimishra/",
+		"headline": "COO at NEW STEP TECHNOLOGY",
+		"date": "December 1, 2015",
+		"relation": " Amit worked with Alessio in the same group",
+		"content": "Amit is teaching me about SEO and SEM and he is very passionate and he is giving me inspiration about this new field of information technology. I like how he does his job and i hope to collaborate now and in the future with him."
+	}],
+	"accomplishments": {
+		"certifications": [{
+			"name": "Agile at Work: Planning with Agile User Stories",
+			"date": "Jul 2016 \u2013 Jul 2016",
+			"license": "License 1A5CA2",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Drupal 8 Essentials 1: Getting Started",
+			"date": "Jul 2016 \u2013 Jul 2016",
+			"license": "License F2C5F6",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Project Management Fundamentals",
+			"date": "Jul 2016 \u2013 Jul 2016",
+			"license": "License D21C6A",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Project Management Simplified",
+			"date": "Jul 2016 \u2013 Jul 2016",
+			"license": "License 73CB78",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Learn AngularJS 2: The Basics",
+			"date": "May 2016 \u2013 May 2016",
+			"license": "License 9C82E6",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Learning to Say No",
+			"date": "May 2016 \u2013 May 2016",
+			"license": "NA",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "PHP Email with Swift Mailer",
+			"date": "May 2016 \u2013 May 2016",
+			"license": "License 36CB53",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Visual Studio 2015 Essentials 01: Exploring the Visual Studio Ecosystem",
+			"date": "Jan 2016 \u2013 Jan 2016",
+			"license": "License 244B92",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "ASP.NET MVC 5 Essential Training",
+			"date": "Nov 2015 \u2013 Nov 2015",
+			"license": "License E9A0CA",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Growth Hacking Fundamentals",
+			"date": "Nov 2015 \u2013 Nov 2015",
+			"license": "License 8721F4",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Growth Hacking Fundamentals",
+			"date": "Nov 2015 \u2013 Nov 2015",
+			"license": "License 8721F4",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "JavaScript and AJAX",
+			"date": "Nov 2015 \u2013 Nov 2015",
+			"license": "License AB834E",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Up and Running with jQuery UI",
+			"date": "Nov 2015 \u2013 Nov 2015",
+			"license": "License 53F53A",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Up and Running with jQuery UI",
+			"date": "Nov 2015 \u2013 Nov 2015",
+			"license": "License 53F53A",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Up and Running with jQuery UI",
+			"date": "Nov 2015 \u2013 Nov 2015",
+			"license": "License 53F53A",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Body Language for Leaders",
+			"date": "Oct 2015 \u2013 Oct 2015",
+			"license": "License C5D4B8",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "jQuery Data with AJAX",
+			"date": "Oct 2015 \u2013 Oct 2015",
+			"license": "License B625DA",
+			"issuer": "lynda.com"
+		}, {
+			"name": "jQuery Data with AJAX",
+			"date": "Oct 2015 \u2013 Oct 2015",
+			"license": "License B625DA",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "jQuery Data with AJAX",
+			"date": "Oct 2015 \u2013 Oct 2015",
+			"license": "License B625DA",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "SQL Server 2012 New Features",
+			"date": "Mar 2015 \u2013 Mar 2015",
+			"license": "License 596BD0",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "ASP.NET Essential Training",
+			"date": "Jan 2015 \u2013 Jan 2015",
+			"license": "License B06547",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Relational Database Fundamentals",
+			"date": "Jan 2015 \u2013 Jan 2015",
+			"license": "License EF5E35",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "SQL Server 2008 Essential Training",
+			"date": "Jan 2015 \u2013 Jan 2015",
+			"license": "License E1DDF1",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "JavaScript and JSON",
+			"date": "Dec 2014 \u2013 Dec 2014",
+			"license": "License E987F0",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Up and Running with HTML5 Video",
+			"date": "Jul 2014 \u2013 Jul 2014",
+			"license": "License CA9710",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Up and Running with Bootstrap 3",
+			"date": "Jun 2014 \u2013 Jun 2014",
+			"license": "License A0ADD4",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Foundations of Programming: Databases (2013)",
+			"date": "Apr 2014 \u2013 Apr 2014",
+			"license": "License C5F58C",
+			"issuer": "Lynda.com"
+		}, {
+			"name": "Foundations of Programming: Fundamentals",
+			"date": "Apr 2014 \u2013 Apr 2014",
+			"license": "License 78D340",
+			"issuer": "Lynda.com"
+		}],
+		"courses": [{
+			"name": "Angular 2",
+			"courseNumber": "NA"
+		}, {
+			"name": "C#",
+			"courseNumber": "NA"
+		}]
+	},
+	"interests": {
+		"companies": [{
+			"name": "Lynda.com",
+			"link": "https://www.linkedin.com/company/39939/",
+			"followers": 146630
+		}, {
+			"name": "Udemy",
+			"link": "https://www.linkedin.com/company/822535/",
+			"followers": 88356
+		}, {
+			"name": "LinkedIn Learning",
+			"link": "https://www.linkedin.com/company/15083827/",
+			"followers": 379557
+		}]
+	}
+}
